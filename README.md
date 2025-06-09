@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World 👋
 
 <!--
 **ru0dn7/ru0dn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

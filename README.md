@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+방문자 수 뱃지
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fru0dn7?color=blue&label=hits&size=medium)](https://myhits.vercel.app)
+
+-->

@@ -22,11 +22,7 @@
 ## 🖥 포트폴리오 프로젝트 | Portfolio Projects
   - [PC 웹 프로젝트 - 커핀그루나루](https://kkwoou.mycafe24.com)
   - [반응형 프로젝트 - Jeju Island](https://kkwoou.mycafe24.com/media)
-  - [리액트 팀 프로젝트 - 코레일(KORAIL)](https://react-project-9360a.web.app/)
-  - <a href="https://kkwoou.mycafe24.com" target="_blank">PC 웹 프로젝트 - 커핀그루나루</a>
-  - <a href="https://kkwoou.mycafe24.com/media" target="_blank">반응형 프로젝트 - 제주도(Jeju Island)</a>
-  - <a href="https://react-project-9360a.web.app/" target="_blank">리액트 팀 프로젝트 - 코레일(KORAIL)</a>
-  
+  - [리액트 팀 프로젝트 - 코레일(KORAIL)](https://react-project-9360a.web.app/)    
 <br />
 <br />
 

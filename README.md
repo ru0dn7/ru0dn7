@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20World👋&fontSize=70&color=auto&stroke=auto)
 
 ## 🧱 Tech Stack
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 <!--  ## 🧱 Tech Stack
 

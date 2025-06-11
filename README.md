@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20World👋&fontSize=70&color=auto&stroke=auto)
 ---
-## 📚 Skills
+## 📚 스킬 | Skills
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  <!-- html5 -->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  <!-- css3 -->
@@ -16,6 +16,25 @@
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">  <!-- Firebase -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  <!-- figma -->
 </div>
+<br />
+<br />
+
+## 🖥 포트폴리오 프로젝트 | Portfolio Projects
+  - [PC 웹 프로젝트 - 커핀그루나루](https://kkwoou.mycafe24.com)
+  - [반응형 프로젝트 - Jeju Island](https://kkwoou.mycafe24.com/media)
+  - [리액트 팀 프로젝트 - 코레일(KORAIL)](https://react-project-9360a.web.app/)
+  - <a href="https://kkwoou.mycafe24.com" target="_blank">PC 웹 프로젝트 - 커핀그루나루</a>
+  - <a href="https://kkwoou.mycafe24.com/media" target="_blank">반응형 프로젝트 - 제주도(Jeju Island)</a>
+  - <a href="https://react-project-9360a.web.app/" target="_blank">리액트 팀 프로젝트 - 코레일(KORAIL)</a>
+  
+<br />
+<br />
+
+
+
+
+
+
 
 <!-- 사용하는 언어 비율(Top Languages Card) -->
 ##

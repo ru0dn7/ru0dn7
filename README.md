@@ -1,7 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20World👋&fontSize=70&color=auto&stroke=auto)
 
-  ## 🧱 Tech Stack
+## 🧱 Tech Stack
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+
+
+<!--  ## 🧱 Tech Stack
 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
@@ -16,7 +20,7 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
   <br/>
   <br/>
-
+-->
 
 
 

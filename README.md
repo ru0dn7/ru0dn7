@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20World👋&fontSize=70&color=auto&stroke=auto)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hello%20World!&fontSize=70&color=auto&stroke=auto)
 ---
 ## 📚 스킬 | Skills
 <div>

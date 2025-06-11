@@ -16,35 +16,16 @@
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">  <!-- Firebase -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  <!-- figma -->
 </div>
-<!-- -->
 
-<!--  ## 🧱 Tech Stack
+<!-- 사용하는 언어 비율(Top Languages Card) -->
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ru0dn7&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
-  <br/><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-quare&logo=Firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-  <br/>
-  <br/>
+
+<!--
+# GitHub 평판을 나타내는 위젯
+[![ru0dn7's GitHub stats](https://github-readme-stats.vercel.app/api?username=ru0dn7)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-
-
-
-
-
-
-
-
-
-
 
 
 

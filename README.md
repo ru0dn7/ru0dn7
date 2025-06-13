@@ -21,6 +21,7 @@
 
 ## 🖥 포트폴리오 & 프로젝트 | Portfolio & Projects
   - [웹 포트폴리오](https://kkwoou.mycafe24.com/profile)
+  - [웹 이력서](https://kkwoou.mycafe24.com/profile/resume/resume2.html)
   - [PC 웹 프로젝트 - 커핀그루나루](https://kkwoou.mycafe24.com)
   - [반응형 프로젝트 - Jeju Island](https://kkwoou.mycafe24.com/media)
   - [리액트 팀 프로젝트 - 코레일(KORAIL)](https://react-project-9360a.web.app/)    
